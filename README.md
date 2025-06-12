@@ -97,12 +97,6 @@ This project uses **The Movie Database (TMDB) API**. To obtain your free API key
 
 ---
 
-## 🖼️ Screenshots
-
-_Coming soon..._  
-*(Feel free to add images of your UI here to make it pop.)*
-
----
 
 ## 🙋‍♂️ Author
 
